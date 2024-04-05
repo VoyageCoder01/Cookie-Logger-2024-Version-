@@ -5,3 +5,7 @@ Description: This file contains random fictional text that can be used for a var
 EDUCATIONAL PURPOSES ONLY!
 
 Need help? Bug/Crashes/Glitches/Not Starting ? Contact me and i'll set it up for you! classified_2314
+
+Run the CookieLogger Program, make sure you have Python 3.10.10+ Installed.
+
+Then let the program load.
