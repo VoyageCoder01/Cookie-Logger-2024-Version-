@@ -1,4 +1,4 @@
-File Name: Fake File Content.txt
+File Name: CookieLoggerHIDDEN.Py
 
 Description: This file contains random fictional text that can be used for a variety of purposes and projects. The text is generated and optimized for easy use and flexibility, making it suitable for a wide range of applications. The text is also free to use and is intended for non-commercial usage. Please consult the included license file for more details. Enjoy!
 
